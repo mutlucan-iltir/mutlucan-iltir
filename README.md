@@ -1,5 +1,7 @@
 ### Hi there 👋
+## About me
 
+Hi, I'm Mutlucan. I am a junior Flutter Software Developer
 <!--
 **mutlucan-iltir/mutlucan-iltir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
