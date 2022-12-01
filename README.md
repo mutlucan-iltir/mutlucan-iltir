@@ -6,7 +6,7 @@ Hi, I'm Mutlucan. I am a junior Flutter Software Developer
 - 🌱 I’m currently learning Python and Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about anything you want
-- 📫 How to reach me: [...](https://www.instagram.com/mutlucaniltir)
+- 📫 How to reach me: [mutlucan iltir](https://www.instagram.com/mutlucaniltir)
 <!--
 **mutlucan-iltir/mutlucan-iltir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
