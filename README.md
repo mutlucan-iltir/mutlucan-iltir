@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </picture>
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Akşam olsa da yatsak.
 
-— Mona the Octocat
+— Mutlucan İltir
