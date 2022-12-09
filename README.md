@@ -10,7 +10,7 @@ Hi, I'm Mutlucan. I am a junior Flutter Software Developer
 
 Visit my afilliate website https://trendyhomedecor.net
 <!--
-**mutlucan-iltir/mutlucan-iltir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mutlucan-iltir/mutlucan-iltir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/mutlucan-iltir/mutlucan-iltir/blob/main/github-snake.gif))
 -->
